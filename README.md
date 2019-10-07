@@ -1,7 +1,7 @@
 <h1>Privacy Policy</h1>
 
 
-<p>Effective date: September 20, 2018</p>
+<p>Effective date: October 06, 2019</p>
 
 
 <p>E = mc^2 ("us", "we", or "our") operates the  website and the Red Packets Come mobile application (hereinafter referred to as the "Service").</p>
@@ -110,7 +110,6 @@
 
 
 <h2>Children's Privacy</h2>
-<p>Our Service does not address anyone under the age of 18 ("Children").</p>
 <p>We do not knowingly collect personally identifiable information from anyone under the age of 18. If you are a parent or guardian and you are aware that your Child has provided us with Personal Data, please contact us. If we become aware that we have collected Personal Data from children without verification of parental consent, we take steps to remove that information from our servers.</p>
 
 
